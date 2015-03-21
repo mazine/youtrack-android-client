@@ -1,0 +1,1 @@
+Client that allows browsing and reporting issues to JetBrains YouTrack [bug tracker](http://www.jetbrains.com/youtrack). Our bug-tracker is hosted [here](http://youtrack-android.myjetbrains.com/youtrack/issues).
